@@ -1,0 +1,32 @@
+.title {
+  background-color: aquamarine;
+  text-align: center;
+  margin-left: 200px;
+  margin-right: 200px;
+}
+
+.link {
+  text-align: center;
+  background-color: red;
+  color: white;
+  margin-left: 210px;
+  margin-right: 210px;
+}
+
+.image {
+  height: auto;
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  padding-top: 25px;
+}
+
+.homepage {
+  background-color: black;
+}
+
+.header {
+  color: white;
+  text-align: center;
+}
