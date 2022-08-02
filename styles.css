@@ -1,8 +1,8 @@
 .title {
   background-color: aquamarine;
   text-align: center;
-  margin-left: 200px;
-  margin-right: 200px;
+  margin-left: 150px;
+  margin-right: 150px;
 }
 
 .link {
@@ -24,9 +24,70 @@
 
 .homepage {
   background-color: black;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 .header {
   color: white;
   text-align: center;
 }
+
+.jackfruit {
+  background-color: darkslateblue;
+}
+
+.recipe-title {
+  color: red;
+}
+
+.description {
+  text-align: center;
+  font-weight: bold;
+  color: white;
+  background-color: darkgreen;
+  padding: 10px 50px;
+  margin-left: 20%;
+  margin-right: 20%;
+  
+}
+
+.about {
+  color: white;
+  padding: 10px 20px 10px; 
+
+}
+
+.ingredients {
+  color: black;
+  font-weight: 800;
+  padding-left: 3%;
+  background-color: darkorange;
+  margin-left: 3%;
+  margin-right: 65%;
+  text-align: center;
+}
+
+.ingredients-list {
+  color: white;
+  padding-left: 8%;
+}
+
+.steps {
+  background-color: darkorange;
+  margin-left: 3%;
+  margin-right: 65%;
+  text-align: center;
+}
+
+.steps-list {
+  color: white;
+  padding-left: 8%;
+  float: left;
+}
+
+form {
+  padding: 10px 30px 10px;
+  position: relative;
+  text-align: center;
+}
+
